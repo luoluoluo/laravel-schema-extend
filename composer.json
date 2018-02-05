@@ -1,0 +1,9 @@
+{
+    "name": "wanshi/laravel-schema-extend",
+    "description": "support MySQL 'table comment'.",
+    "autoload": {
+        "psr-0": {
+            "Wanshi\\LaravelSchemaExtend\\": "src/"
+        }
+    }
+}
